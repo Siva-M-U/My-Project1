@@ -28,7 +28,7 @@ const IndexPage = () => (
         Welcome to <b>My Project 1</b>
       </h1>
       <p>I sucessfully completed my react designer course</p>
-      <p> Video 1 Completed..</p>
+      
       <Link to="/page-2/">Go to page 2</Link>
       
     </div>
